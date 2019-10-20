@@ -7,23 +7,23 @@
 
 >#### neis.ts
 >```
-export default {
-	NEIS_KEY: 'neiskey'
-}
+>export default {
+>	NEIS_KEY: 'neiskey'
+>}
 >```
 
 >#### school.ts
 >```
-export default {
-	schoolCode: 'schoolCode',
-	officeCode: 'officeCode',
-	schoolGrade: grade,
-	schoolClass: class,
-}
+>export default {
+>	schoolCode: 'schoolCode',
+>	officeCode: 'officeCode',
+>	schoolGrade: grade,
+>	schoolClass: class,
+>}
 >```
 
 ### .env
 
 >```
-PORT=3000
+>PORT=3000
 >```
